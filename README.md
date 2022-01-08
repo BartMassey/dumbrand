@@ -1,4 +1,4 @@
-#fastrand: Not actually fast, but simple random number PRNG
+# dumbrand: slow simple stupid random number PRNG
 Bart Massey 2022
 
 *This is a work-in-progress.* Don't use this for anything
